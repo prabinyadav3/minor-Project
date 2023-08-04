@@ -1,0 +1,8 @@
+.home{
+    background-image: url(Image/home1.jpg);
+    color: #00ffee;
+ }
+
+ .home .content h3{
+    color: #00ffee;
+ }
